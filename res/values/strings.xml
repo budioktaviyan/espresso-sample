@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Espresso</string>
+    <string name="action_click">CLICK</string>
+    <string name="hint_type">Input something&#8230;</string>
+</resources>
